@@ -1,1 +1,18 @@
-{}
+{
+  "templater-obsidian:templates/blog.md": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "6"
+    }
+  ],
+  "templater-obsidian:create-templates/blog.md": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "1"
+    }
+  ]
+}
