@@ -163,8 +163,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5523f8d7a30f8a0b",
+  "active": "8fc56e08b1fbf21e",
   "lastOpenFiles": [
+    "public/images/advent_meme.png",
+    "static/images/advent_meme.png",
+    "public/images",
+    "static/images",
     "images/advent_meme.png",
     "Untitled.md",
     "content/posts/advent-of-code-2024.md",
@@ -177,8 +181,6 @@
     "public/tags/go/index.html",
     "public/tags/go/atom.xml",
     "public/tags/go",
-    "public/posts/how-it-feels-to-do-advent-of-code/index.html",
-    "public/posts/how-it-feels-to-do-advent-of-code",
     "templates/blog.md",
     "content/posts/post-2.md",
     "themes/maverick/exampleSite/content/tags/hugo/_index.md",

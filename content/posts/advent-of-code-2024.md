@@ -15,3 +15,7 @@ I have to say, it really feels amazing once you finally get that gold star!
 ![advent_meme.png](/images/advent_meme.png)
 
 Following the example of Prime, I'm going to try to learn golang this year. We'll see how far I get.
+
+Have a look at my solutions for this year: https://github.com/Johandielangman/aoc-2024
+
+⚠ **Disclaimer:** I'm using this as an opportunity to learn the language! So, I'm not going to be following best practices or anything like that. Sorry for all the code smells!
