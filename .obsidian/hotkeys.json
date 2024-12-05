@@ -10,6 +10,7 @@
   "templater-obsidian:create-templates/blog.md": [
     {
       "modifiers": [
+        "Alt",
         "Shift"
       ],
       "key": "1"
