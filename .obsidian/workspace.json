@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Post 2.md",
+                "file": "templates/blog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Post 2"
+              "title": "blog"
             }
           }
         ]
@@ -165,14 +165,35 @@
   },
   "active": "8fc56e08b1fbf21e",
   "lastOpenFiles": [
+    "public/feed.json",
+    "public/404.html",
+    "public/index.html",
+    "public/about/index.html",
+    "public/about",
+    "public/posts/post-2/index.html",
+    "public/posts/post-2",
+    "public/posts/index.html",
+    "public/posts",
+    "public/tags/sample/index.html",
+    "public/tags/hugo/index.html",
     "content/posts/rich-content.md",
+    "themes/maverick/exampleSite/content/tags/hugo/_index.md",
+    "themes/maverick/exampleSite/content/posts/markdown-syntax.md",
+    "themes/maverick/exampleSite/content/posts/rich-content.md",
+    "themes/maverick/exampleSite/content/posts/install-hugo-on-mac-os.md",
+    "themes/maverick/exampleSite/content/posts/example-content.md",
+    "themes/maverick/exampleSite/content/posts/emoji-support.md",
+    "themes/maverick/exampleSite/content/pages/about.md",
+    "themes/maverick/exampleSite/content/_index.md",
+    "themes/maverick/archetypes/default.md",
+    "themes/maverick/README.md",
     "content/posts/Post 2.md",
+    "content/posts/post-2.md",
+    "public/heihei.png",
     "templates/blog.md",
-    "templates",
     "Codera/published.md",
     "Codera/desktop.png",
     "WSL Setup/Setup.md",
-    "WSL Setup",
     "Codera/mobile-1.png",
     "Codera/feat - better responsive tables.md",
     "Codera/mobile-2.png",
@@ -183,18 +204,6 @@
     "Codera/Airbnb Inspiration.md",
     "Codera/General.md",
     "Codera/Introduction.md",
-    "Codera/Project kick-off meeting.md",
-    "Hellies App/Theme.md",
-    "Hellies App/Accounts.md",
-    "Hellies App",
-    "Codera/standups",
-    "README.md",
-    "Repository readme",
-    "ENSAfrica/✍🏻 Meeting with ENS Africa IT Department.md",
-    "Repository readme/FLARE README.md",
-    "Codera",
-    "General/Competencies.md",
-    "ENSAfrica",
-    "General"
+    "Codera/Project kick-off meeting.md"
   ]
 }

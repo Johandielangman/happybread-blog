@@ -1,9 +1,9 @@
 ---
 author: Calvin Tran
-title: Example Content
+title: Content next
 date: 2022-03-15
 tags:
   - hugo
   - sample
-draft: "true"
 ---
+This is a draft
