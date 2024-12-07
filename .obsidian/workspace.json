@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/my-plots-of-2024.md",
+                "file": "content/posts/my-favorite-plots-of-2024.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "my-plots-of-2024"
+              "title": "my-favorite-plots-of-2024"
             }
           },
           {
@@ -180,7 +180,7 @@
   "active": "454eaa1ef08ac426",
   "lastOpenFiles": [
     "content/posts/self-hosting-an-affordable-and-lightweight-url-shortener-with-go-and-redis.md",
-    "content/posts/my-plots-of-2024.md",
+    "content/posts/my-favorite-plots-of-2024.md",
     "content/posts/advent-of-code-2024.md",
     "public/images/networkTab.png",
     "static/images/networkTab.png",
