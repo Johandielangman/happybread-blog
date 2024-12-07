@@ -1,7 +1,7 @@
 ---
 author: Johan Hanekom
 title: Self-Hosting an Affordable and Lightweight URL Shortener with Go and Redis
-date: 2024-12-05
+date: 2024-12-07
 tags:
   - go
   - AWS
