@@ -1,6 +1,6 @@
 baseURL = 'https://happybread.net'
 languageCode = 'en-us'
-title = 'Happy Bread 🥐'
+title = 'Happybread 🥪'
 paginate = 3
 theme = 'maverick'
 
@@ -45,7 +45,7 @@ theme = 'maverick'
     lineNumbersInTable = true
     noClasses = true
     noHl = false
-    style = 'monokai'
+    style = 'monokailight'
     tabWidth = 4
 
 [taxonomies]
