@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6871688d3069315e",
+        "id": "078ec1692e367307",
         "type": "tabs",
         "children": [
           {
-            "id": "8fc56e08b1fbf21e",
+            "id": "454eaa1ef08ac426",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/advent-of-code-2024.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "advent-of-code-2024"
+              "title": "New tab"
             }
           }
         ]
@@ -163,24 +159,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8fc56e08b1fbf21e",
+  "active": "454eaa1ef08ac426",
   "lastOpenFiles": [
+    "content/pages/about.md",
+    "content/posts/self-hosting-an-affordable-and-lightweight-url-shortener-with-go-and-redis.md",
+    "public/posts/self-hosting-an-affordable-and-lightweight-url-shortener-with-go-and-redis/index.html",
+    "public/posts/self-hosting-an-affordable-and-lightweight-url-shortener-with-go-and-redis",
+    "content/posts/advent-of-code-2024.md",
+    "content/_index.md",
+    "public/posts/bun-happybread-url-shortener/index.html",
+    "public/posts/bun-happybread-url-shortener",
+    "public/tags/redis/index.html",
+    "public/tags/redis/atom.xml",
+    "public/tags/redis",
+    "public/tags/makefile/index.html",
+    "public/tags/makefile/atom.xml",
+    "public/tags/makefile",
+    "public/images/architecture.svg",
+    "static/images/architecture.svg",
+    "images/architecture.svg",
     "public/images/advent_meme.png",
     "static/images/advent_meme.png",
-    "public/images",
-    "static/images",
     "images/advent_meme.png",
-    "Untitled.md",
-    "content/posts/advent-of-code-2024.md",
     "content/posts/rich-content.md",
-    "public/posts/advent-of-code-2024/index.html",
-    "public/posts/advent-of-code-2024",
-    "public/tags/aoc/index.html",
-    "public/tags/aoc/atom.xml",
-    "public/tags/aoc",
-    "public/tags/go/index.html",
-    "public/tags/go/atom.xml",
-    "public/tags/go",
     "templates/blog.md",
     "content/posts/post-2.md",
     "themes/maverick/exampleSite/content/tags/hugo/_index.md",
@@ -205,7 +206,6 @@
     "Codera/feat - style changes to registry.md",
     "Codera/standups/02-08-2024.md",
     "Codera/standups/06-08-2024.md",
-    "Codera/Airbnb Inspiration.md",
-    "Codera/General.md"
+    "Codera/Airbnb Inspiration.md"
   ]
 }
