@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "078ec1692e367307",
+        "id": "e0966f89702c0020",
         "type": "tabs",
         "children": [
           {
-            "id": "454eaa1ef08ac426",
+            "id": "4cf94981e27cba9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/streamline-your-workflow-with-powerful-git-alias-commands.md",
+                "file": "content/posts/turn-time-series-into-clock-like-polar-plots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "streamline-your-workflow-with-powerful-git-alias-commands"
+              "title": "turn-time-series-into-clock-like-polar-plots"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d64f8643a7475e26",
@@ -164,34 +163,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "454eaa1ef08ac426",
+  "active": "4cf94981e27cba9c",
   "lastOpenFiles": [
+    "public/images/when_do_we_google_the_weather.png",
+    "public/images/weatherTrend.png",
+    "static/images/when_do_we_google_the_weather.png",
+    "static/images/weatherTrend.png",
+    "public/posts/turn-time-series-into-clock-like-polar-plots/index.html",
+    "public/posts/turn-time-series-into-clock-like-polar-plots",
+    "public/tags/timeseries/index.html",
+    "public/tags/timeseries/atom.xml",
+    "public/tags/timeseries",
+    "content/posts/turn-time-series-into-clock-like-polar-plots.md",
+    "images/when_do_we_google_the_weather.png",
+    "images/weatherTrend.png",
+    "content/posts/my-favorite-plots-of-2024.md",
+    "content/posts/streamline-your-workflow-with-powerful-git-alias-commands.md",
     "public/tags/git/index.html",
     "public/tags/git/atom.xml",
     "public/tags/git",
     "public/posts/my-favorite-plots-of-2024/index.html",
     "public/posts/my-favorite-plots-of-2024",
-    "public/posts/streamline-your-workflow-with-powerful-git-alias-commands/index.html",
-    "public/posts/streamline-your-workflow-with-powerful-git-alias-commands",
-    "content/posts/my-favorite-plots-of-2024.md",
-    "content/posts/streamline-your-workflow-with-powerful-git-alias-commands.md",
     "content/posts/self-hosting-an-affordable-and-lightweight-url-shortener-with-go-and-redis.md",
     "content/posts/advent-of-code-2024.md",
     "public/images/networkTab.png",
     "static/images/networkTab.png",
     "images/networkTab.png",
-    "public/tags/ggplot/atom.xml",
-    "public/tags/ggplot/index.html",
-    "public/tags/ggplot",
-    "public/tags/analysis/atom.xml",
     "content/pages/about.md",
     "content/_index.md",
     "public/images/architecture.svg",
     "static/images/architecture.svg",
-    "images/architecture.svg",
-    "public/images/advent_meme.png",
-    "static/images/advent_meme.png",
-    "images/advent_meme.png",
     "content/posts/rich-content.md",
     "templates/blog.md",
     "content/posts/post-2.md",
@@ -206,11 +207,9 @@
     "themes/maverick/archetypes/default.md",
     "themes/maverick/README.md",
     "content/posts/Post 2.md",
-    "public/heihei.png",
     "Codera/published.md",
     "WSL Setup/Setup.md",
     "Codera/feat - better responsive tables.md",
-    "Codera/template.md",
-    "Codera/feat - style changes to registry.md"
+    "Codera/template.md"
   ]
 }
