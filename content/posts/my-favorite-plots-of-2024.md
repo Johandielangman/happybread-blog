@@ -13,7 +13,7 @@ It's that time of the year where Spotify releases their *Spotify Wrapped*. I've 
 
 ## [Where are Cape Town’s most expensive Airbnbs? ](https://www.linkedin.com/posts/daan-steenkamp-48a42520_in-an-earlier-postwe-showed-that-the-suburbs-activity-7230072807735390208-KrmQ/)
 
-![plot](https://media.licdn.com/dms/image/v2/D4D22AQG1chT8VDl0yg/feedshare-shrink_800/feedshare-shrink_800/0/1723783684907?e=1736380800&v=beta&t=EhCBWX_uu6kflNyqxBK6kC6fRXpvxUqQvkqVHkPmRWc)
+![Where are Cape Town's most expensive Airbnbs?](/images/geo_plot_median_prices.png)
 
 Analyzing the mean price per night for Cape Town's suburbs was one of the first plots I created this year, back in August. I’m highlighting this plot because it was the one that made me realize I needed a better way to structure my projects. With many plots planned for the year, my workflow needed to be as efficient and seamless as possible -- smooth as butter!  
 
@@ -187,7 +187,7 @@ geo_plot_median_prices <- listings_cleaned %>%
 Creating the price bins was also a whole other story! 
 ## [How far will R100 get your VW Polo in SA?](https://www.linkedin.com/posts/daan-steenkamp-48a42520_for-r100-spent-on-petrol-your-vw-polo-now-activity-7234790289989599232-SjJb/)
 
-![plot](https://media.licdn.com/dms/image/v2/D4D22AQGvqhfwPAQd4w/feedshare-shrink_800/feedshare-shrink_800/0/1724908419300?e=1736380800&v=beta&t=ASzNWPe-Rs4CuBWvOmgbv4cWeKraylOBhPYVe5eeLts)
+![plot](/images/how_far_will_r100_get_your_vw.png)
 
 While surfing the web, as one does, I stumbled upon a fascinating [News24](https://www.news24.com/life/motoring/cardoctor/fuel_focus/on-your-last-r100-and-worried-about-the-fuel-price-heres-how-far-sas-most-popular-fuel-sipping-cars-will-take-you-20181005) article by Robin Classen from 2018. The title immediately caught my attention: _"On your last R100 and worried about the fuel price? Here's how far SA's most popular fuel-sipping cars will take you."_
 
@@ -269,7 +269,7 @@ One limitation of this plot is that it doesn’t account for inflation—fuel pr
 
 ## [Which lotto number should you pick?](https://www.linkedin.com/posts/daan-steenkamp-48a42520_todays-post-by-johan-hanekom-shows-that-activity-7264860096206131200-_WvR/)
 
-![plot](https://media.licdn.com/dms/image/v2/D4D22AQGTtUhndP2SaA/feedshare-shrink_800/feedshare-shrink_800/0/1732077607602?e=1736380800&v=beta&t=dHAp0sbAChBrCSEw9yLUqj8y8yIbHeXdiruIYe56DP4)
+![plot](/images/lucky-numbers-over-time.gif)
 
 
 The national lottery fascinates me. While I don't think I'll ever play it, the data behind it is incredibly intriguing! Many websites focus on draw frequencies and patterns, such as:
@@ -359,7 +359,7 @@ By using `gganimate`, the animation seamlessly illustrated the progression of th
 
 ## [Do JSE Top 40 companies talk more about profits or sustainability?](https://www.linkedin.com/posts/daan-steenkamp-48a42520_in-recent-years-the-priorities-of-large-activity-7260169441173204992-8-nf/)
 
-![plot](https://media.licdn.com/dms/image/v2/D4E22AQHxzsvxdj-9uQ/feedshare-shrink_800/feedshare-shrink_800/0/1730959280893?e=1736380800&v=beta&t=N4LemSu1ayPzU22GvGLR6K8I-J16Q3af_taT9QuAfy0)
+![plot](/images/profit_vs_sustainability_median.png)
 
 Don’t let these two simple lines deceive you -- this was the most tedious data collection I undertook in 2024. I manually searched for and downloaded over 250 integrated annual reports -- that’s 40 JSE companies across seven years. The biggest frustration? Each company had its own unique way of publishing and archiving these reports. Some files were small, while others were absolutely massive -- some even exceeded 70 MB! It took me two weeks to download all these reports. To save others from this hassle, I uploaded all of them to my [JSE-Top-40-IAR](https://github.com/Johandielangman/JSE-Top-40-IAR) repository. Keep in mind that the JSE Top 40 is subject to change; this dataset reflects the top 40 companies as of November 2024.
 
@@ -415,7 +415,7 @@ temp_df <- data.frame(text = txt_content) %>%
 And then it's as easy as choosing what word you would like to plot, filter for that word and make a simple line plot!
 ## [Which features matter most in vehicle pricing?](https://www.linkedin.com/posts/daan-steenkamp-48a42520_understanding-what-drives-the-price-of-a-activity-7269210951810232320-htuH/?utm_source=share&utm_medium=member_desktop)
 
-![plot](https://media.licdn.com/dms/image/v2/D4D22AQHvXTg25pI9Ng/feedshare-shrink_800/feedshare-shrink_800/0/1733114945469?e=1736380800&v=beta&t=xUo22S7uRxgnMWZZHlZZO1ZUmaVs3ZKTgr068lppEOY)
+![plot](/images/feature_importance_500k_threshold.png)
 
 Similar to the lottery data, this was another happy accident. Once again, I found myself exploring the network tab -- this time on the _We Buy Cars_ website. After downloading data for over 10,000 car listings, one thing stood out: the sheer number of columns available. Each listing had over 115 variables, ranging from `model`, `make`, and `year` to `engine_cycle`, `mileage`, and my personal favorite, `has_spare_key`.
 
