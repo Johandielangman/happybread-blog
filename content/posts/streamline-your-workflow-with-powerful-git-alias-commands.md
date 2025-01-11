@@ -10,7 +10,7 @@ A while back, I learned that your `~/.gitconfig` file isn't just for setting you
 
 ## Listing Most Recently Accessed Branches Using _git lb_
 
-I quickly turned to Google in search of an alias for something I'd always wanted in Git: _What are the most recent branches I've been working on?_ While [`git checkout -`](https://git-scm.com/docs/git-checkout) works well to toggle between the last two branches, it falls short when you need to juggle three or more. I addition, the branches I work on a daily basis are auto-generated and not easy to remember. This functionality was a natural candidate for an alias. However, having this information directly in my terminal would be amazing
+I quickly turned to Google in search of an alias for something I'd always wanted in Git: _What are the most recent branches I've been working on?_ While [`git checkout -`](https://git-scm.com/docs/git-checkout) works well to toggle between the last two branches, it falls short when you need to juggle three or more. I addition, the branches I work on a daily basis are auto-generated and not easy to remember. This functionality was a natural candidate for an alias. Having this information directly in my terminal would be amazing
 
 Enter my favorite alias: `git lb`. Running this command lists your most recent branches, complete with color-coded output for clarity.
 
