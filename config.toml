@@ -8,9 +8,10 @@ theme = 'maverick'
   pages = "/:slug"
 
 [params]
-  logo = './assets/logo.ico'
-  description = "A minimal hugo theme focus on content"
+  logo = 'assets/favicon.ico'
+  description = "A happy bread blog!"
   author = 'Johan Hanekom'
+  items = 5
 
   [params.comments]
     enabled = true
