@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/self-hosting-streamlit.md",
+                "file": "content/posts/sa-dam-data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "self-hosting-streamlit"
+              "title": "sa-dam-data"
             }
           }
         ]
@@ -165,31 +165,32 @@
   },
   "active": "e25da3f61cc277c7",
   "lastOpenFiles": [
-    "public/images/self-hosted-streamlit-arch.png",
-    "public/images/localhost-nginx-app-2.png",
-    "public/images/localhost-nginx-app-1.png",
-    "public/images/localhost-app-1.png",
+    "public/images/surface_water_map.png",
+    "public/images/surface_water_map 1.png",
+    "public/images/surface_water_dashboard.png",
+    "public/images/s3_dam_pics.png",
+    "public/images/load_table_from_wiki_to_excel.png",
+    "public/images/list_of_dams.png",
+    "public/images/getting_dam_coordinates.png",
+    "public/images/gariep_dam_mongo.png",
+    "public/images/gariep_dam.png",
+    "public/images/free_state_state_of_dams.png",
+    "public/images/data_in_mongo.png",
+    "public/posts/sa-dam-data/index.html",
+    "public/posts/sa-dam-data",
+    "public/tags/mongo/index.html",
+    "public/tags/mongo/atom.xml",
+    "public/tags/mongo",
+    "content/posts/sa-dam-data.md",
+    "content/posts/self-hosting-an-affordable-and-lightweight-url-shortener-with-go-and-redis.md",
+    "templates/blog.md",
+    "content/posts/self-hosting-streamlit.md",
     "public/tags/docker/atom.xml",
     "public/tags/cloudflare/atom.xml",
     "public/posts/self-hosting-streamlit/index.html",
     "public/posts/self-hosting-streamlit",
     "public/tags/nginx/index.html",
-    "public/tags/nginx/atom.xml",
-    "public/tags/nginx",
-    "public/tags/cloudflare/index.html",
-    "public/tags/cloudflare",
-    "public/tags/docker/index.html",
-    "static/images/self-hosted-streamlit-arch.png",
-    "static/images/localhost-nginx-app-2.png",
-    "static/images/localhost-nginx-app-1.png",
-    "static/images/localhost-app-1.png",
-    "images/self-hosted-streamlit-arch.png",
-    "content/posts/self-hosting-an-affordable-and-lightweight-url-shortener-with-go-and-redis.md",
-    "images/localhost-nginx-app-1.png",
-    "images/localhost-nginx-app-2.png",
-    "content/posts/self-hosting-streamlit.md",
     "content/posts/streamline-your-workflow-with-powerful-git-alias-commands.md",
-    "templates/blog.md",
     "content/posts/efficient-data-crawler-using-threaded-queues.md",
     "content/posts/turn-time-series-into-clock-like-polar-plots.md",
     "content/posts/my-favorite-plots-of-2024.md",
@@ -209,7 +210,6 @@
     "themes/maverick/exampleSite/content/_index.md",
     "themes/maverick/archetypes/default.md",
     "themes/maverick/README.md",
-    "content/posts/Post 2.md",
-    "Codera/published.md"
+    "content/posts/Post 2.md"
   ]
 }
