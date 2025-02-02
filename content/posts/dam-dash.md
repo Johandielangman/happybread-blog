@@ -9,7 +9,7 @@ tags:
 draft: "false"
 ---
 
-<video controls width="700">
+<video controls width="100%">
 	<source
 		src="/images/dam_dash_demo.mp4"
 		type="video/mp4">
