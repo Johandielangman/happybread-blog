@@ -31,7 +31,9 @@ I put together a little demo of what's possible! Have a look at the video above.
 
 This is all thanks to Streamlit -- it makes building web apps ridiculously easy. Check out my [first post in the series](https://happybread.net/posts/self-hosting-streamlit/) if you haven’t yet.
 
-Still riding the hype! 🚀
+Have a look at the dashboard for yourself! 🚀
+
+🔗  https://dash.happybread.net/dam/ 
 
 ## 👨‍🔬 Architecture
 
@@ -306,3 +308,5 @@ And that’s it! By combining **Folium** with **Streamlit**, we can create an in
 Thanks for reading!
 
 You can have a look at the source code [here](https://github.com/Johandielangman/SA-Dam-Dashboard) 🐱
+
+🔗 https://dash.happybread.net/dam/ 
