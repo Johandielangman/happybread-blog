@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/sa-dam-data.md",
+                "file": "content/posts/dam-dash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sa-dam-data"
+              "title": "dam-dash"
             }
           }
         ]
@@ -165,31 +165,32 @@
   },
   "active": "e25da3f61cc277c7",
   "lastOpenFiles": [
+    "public/images/sa-dam-dash-architecture.png",
+    "public/images/if_things_feel_slow.png",
+    "public/images/dam_dash_indexes.png",
+    "static/images/sa-dam-dash-architecture.png",
+    "static/images/if_things_feel_slow.png",
+    "static/images/dam_dash_indexes.png",
+    "images/dam_dash_indexes.png",
+    "images/sa-dam-dash-architecture.png",
+    "images/if_things_feel_slow.png",
+    "public/images/dam_dash_demo.mp4",
+    "public/tags/streamlit/index.html",
+    "public/tags/streamlit/atom.xml",
+    "public/tags/streamlit",
+    "public/posts/dam-dash/index.html",
+    "public/posts/dam-dash",
+    "static/images/dam_dash_demo.mp4",
+    "content/posts/sa-dam-data.md",
+    "content/posts/dam-dash.md",
+    "images/dam_dash_demo.mp4",
+    "templates/blog.md",
     "public/images/surface_water_map.png",
     "public/images/surface_water_map 1.png",
-    "public/images/surface_water_dashboard.png",
-    "public/images/s3_dam_pics.png",
-    "public/images/load_table_from_wiki_to_excel.png",
-    "public/images/list_of_dams.png",
-    "public/images/getting_dam_coordinates.png",
-    "public/images/gariep_dam_mongo.png",
-    "public/images/gariep_dam.png",
-    "public/images/free_state_state_of_dams.png",
-    "public/images/data_in_mongo.png",
     "public/posts/sa-dam-data/index.html",
     "public/posts/sa-dam-data",
-    "public/tags/mongo/index.html",
-    "public/tags/mongo/atom.xml",
-    "public/tags/mongo",
-    "content/posts/sa-dam-data.md",
     "content/posts/self-hosting-an-affordable-and-lightweight-url-shortener-with-go-and-redis.md",
-    "templates/blog.md",
     "content/posts/self-hosting-streamlit.md",
-    "public/tags/docker/atom.xml",
-    "public/tags/cloudflare/atom.xml",
-    "public/posts/self-hosting-streamlit/index.html",
-    "public/posts/self-hosting-streamlit",
-    "public/tags/nginx/index.html",
     "content/posts/streamline-your-workflow-with-powerful-git-alias-commands.md",
     "content/posts/efficient-data-crawler-using-threaded-queues.md",
     "content/posts/turn-time-series-into-clock-like-polar-plots.md",
@@ -209,7 +210,6 @@
     "themes/maverick/exampleSite/content/pages/about.md",
     "themes/maverick/exampleSite/content/_index.md",
     "themes/maverick/archetypes/default.md",
-    "themes/maverick/README.md",
-    "content/posts/Post 2.md"
+    "themes/maverick/README.md"
   ]
 }

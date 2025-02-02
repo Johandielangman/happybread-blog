@@ -853,3 +853,5 @@ Now we can use the data to make amazing plots!
 ## 🥐 Conclusions
 
 This was a fun one to make! It uses a lot of the AWS services. With this, the data can be used to make a very interesting dashboard! Thanks for reading!
+
+A link to the source code: [sa-dam-data lambda](https://github.com/Johandielangman/sa-dam-data/blob/main/lambda_function.py)
