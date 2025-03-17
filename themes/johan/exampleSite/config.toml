@@ -1,6 +1,6 @@
-baseURL = 'https://happybread.net'
+baseURL = 'https://johan.canhtran.me'
 languageCode = 'en-us'
-title = 'Happybread 🥪'
+title = 'johan'
 paginate = 3
 theme = 'johan'
 
@@ -8,14 +8,13 @@ theme = 'johan'
   pages = "/:slug"
 
 [params]
-  logo = 'assets/favicon.ico'
-  description = "A happy bread blog!"
-  author = 'Johan Hanekom'
-  items = 5
+  logo = '/assets/favicon.ico'
+  description = "A minimal hugo theme focus on content"
+  author = 'Calvin Tran'
 
   [params.comments]
     enabled = true
-    githubRepo = 'johandielangman/happybread-blog'
+    githubRepo = 'canhtran/johan'
     theme = 'github-light'
 
 

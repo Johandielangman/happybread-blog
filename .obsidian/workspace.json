@@ -201,15 +201,15 @@
     "content/_index.md",
     "content/posts/rich-content.md",
     "content/posts/post-2.md",
-    "themes/maverick/exampleSite/content/tags/hugo/_index.md",
-    "themes/maverick/exampleSite/content/posts/markdown-syntax.md",
-    "themes/maverick/exampleSite/content/posts/rich-content.md",
-    "themes/maverick/exampleSite/content/posts/install-hugo-on-mac-os.md",
-    "themes/maverick/exampleSite/content/posts/example-content.md",
-    "themes/maverick/exampleSite/content/posts/emoji-support.md",
-    "themes/maverick/exampleSite/content/pages/about.md",
-    "themes/maverick/exampleSite/content/_index.md",
-    "themes/maverick/archetypes/default.md",
-    "themes/maverick/README.md"
+    "themes/johan/exampleSite/content/tags/hugo/_index.md",
+    "themes/johan/exampleSite/content/posts/markdown-syntax.md",
+    "themes/johan/exampleSite/content/posts/rich-content.md",
+    "themes/johan/exampleSite/content/posts/install-hugo-on-mac-os.md",
+    "themes/johan/exampleSite/content/posts/example-content.md",
+    "themes/johan/exampleSite/content/posts/emoji-support.md",
+    "themes/johan/exampleSite/content/pages/about.md",
+    "themes/johan/exampleSite/content/_index.md",
+    "themes/johan/archetypes/default.md",
+    "themes/johan/README.md"
   ]
 }
