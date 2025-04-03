@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/game-of-life.md",
+                "file": "content/posts/power-of-pre-commit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "game-of-life"
+              "title": "power-of-pre-commit"
             }
           }
         ]
@@ -170,34 +170,36 @@
   },
   "active": "e25da3f61cc277c7",
   "lastOpenFiles": [
+    "public/images/pre-commit-meme.png",
+    "public/images/i_visit_often.png",
+    "public/images/editor-ruler.png",
+    "public/images/b113.png",
+    "public/posts/power-of-pre-commit/index.html",
+    "public/posts/power-of-pre-commit",
+    "static/images/pre-commit-meme.png",
+    "static/images/i_visit_often.png",
+    "static/images/editor-ruler.png",
+    "static/images/b113.png",
+    "images/b113.png",
+    "images/editor-ruler.png",
+    "images/i_visit_often.png",
+    "content/posts/power-of-pre-commit.md",
+    "templates/blog.md",
+    "content/posts/game-of-life.md",
+    "content/posts/Untitled.md",
     "public/images/gol_demo.mp4",
     "static/images/gol_demo.mp4",
     "images/gol_demo.mp4",
     "content/posts/my-favorite-plots-of-2024.md",
     "content/posts/efficient-data-crawler-using-threaded-queues.md",
     "content/posts/dam-dash.md",
-    "content/posts/game-of-life.md",
-    "public/images/gol_rule_4.png",
-    "public/images/gol_rule_3.png",
-    "public/images/gol_rule_2.png",
-    "static/images/gol_rule_4.png",
-    "static/images/gol_rule_3.png",
-    "public/images/gol_rule_1.png",
-    "static/images/gol_rule_2.png",
-    "static/images/gol_rule_1.png",
-    "images/gol_rule_4.png",
-    "images/gol_rule_3.png",
     "content/posts/advent-of-code-2024.md",
     "themes/johan/layouts/shortcodes/iframe.html",
     "public/ads.txt",
     "public/tags/p5/index.html",
     "public/tags/p5/atom.xml",
     "public/tags/p5",
-    "public/posts/game-of-life/index.html",
-    "public/posts/game-of-life",
-    "templates/blog.md",
     "themes/johan/exampleSite/content/tags/hugo/_index.md",
-    "themes/johan/layouts/_default/_markup/render-image.html",
     "themes/johan/exampleSite/content/posts/rich-content.md",
     "themes/johan/exampleSite/content/posts/markdown-syntax.md",
     "themes/johan/exampleSite/content/posts/install-hugo-on-mac-os.md",
@@ -213,8 +215,6 @@
     "content/posts/streamline-your-workflow-with-powerful-git-alias-commands.md",
     "content/posts/turn-time-series-into-clock-like-polar-plots.md",
     "README.md",
-    "content/pages/about.md",
-    "content/_index.md",
-    "content/posts/rich-content.md"
+    "content/pages/about.md"
   ]
 }
