@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e0966f89702c0020",
+        "id": "5da712a39cd653ae",
         "type": "tabs",
         "children": [
           {
-            "id": "e25da3f61cc277c7",
+            "id": "47b8c7691ef5ddac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/power-of-pre-commit.md",
+                "file": "content/posts/making-my-own-fortune-collection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "power-of-pre-commit"
+              "title": "making-my-own-fortune-collection"
             }
           }
         ]
@@ -168,22 +168,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e25da3f61cc277c7",
+  "active": "47b8c7691ef5ddac",
   "lastOpenFiles": [
-    "public/images/pre-commit-meme.png",
-    "public/images/i_visit_often.png",
-    "public/images/editor-ruler.png",
-    "public/images/b113.png",
+    "public/images/fortunes_collection.png",
+    "public/images/expensive-vs-cheap.png",
+    "public/images/cowsay_on_open.png",
+    "public/images/cowsay.png",
+    "public/images/conf_fish.png",
+    "public/posts/making-my-own-fortune-collection/index.html",
+    "public/posts/making-my-own-fortune-collection",
+    "public/images/airbnb-thumbnail.png",
+    "public/images/airbnb-regex-working.gif",
+    "static/images/fortunes_collection.png",
+    "static/images/expensive-vs-cheap.png",
+    "static/images/cowsay_on_open.png",
+    "static/images/cowsay.png",
+    "content/posts/making-my-own-fortune-collection.md",
+    "content/posts/using-trees-to-determine-amenities-importance.md",
+    "content/posts/turn-time-series-into-clock-like-polar-plots.md",
+    "content/posts/efficient-data-crawler-using-threaded-queues.md",
+    "content/posts/dam-dash.md",
+    "content/posts/power-of-pre-commit.md",
     "public/posts/power-of-pre-commit/index.html",
     "public/posts/power-of-pre-commit",
-    "static/images/pre-commit-meme.png",
-    "static/images/i_visit_often.png",
-    "static/images/editor-ruler.png",
-    "static/images/b113.png",
-    "images/b113.png",
-    "images/editor-ruler.png",
-    "images/i_visit_often.png",
-    "content/posts/power-of-pre-commit.md",
     "templates/blog.md",
     "content/posts/game-of-life.md",
     "content/posts/Untitled.md",
@@ -191,14 +198,10 @@
     "static/images/gol_demo.mp4",
     "images/gol_demo.mp4",
     "content/posts/my-favorite-plots-of-2024.md",
-    "content/posts/efficient-data-crawler-using-threaded-queues.md",
-    "content/posts/dam-dash.md",
     "content/posts/advent-of-code-2024.md",
     "themes/johan/layouts/shortcodes/iframe.html",
     "public/ads.txt",
     "public/tags/p5/index.html",
-    "public/tags/p5/atom.xml",
-    "public/tags/p5",
     "themes/johan/exampleSite/content/tags/hugo/_index.md",
     "themes/johan/exampleSite/content/posts/rich-content.md",
     "themes/johan/exampleSite/content/posts/markdown-syntax.md",
@@ -212,9 +215,6 @@
     "content/posts/sa-dam-data.md",
     "content/posts/self-hosting-an-affordable-and-lightweight-url-shortener-with-go-and-redis.md",
     "content/posts/self-hosting-streamlit.md",
-    "content/posts/streamline-your-workflow-with-powerful-git-alias-commands.md",
-    "content/posts/turn-time-series-into-clock-like-polar-plots.md",
-    "README.md",
-    "content/pages/about.md"
+    "content/posts/streamline-your-workflow-with-powerful-git-alias-commands.md"
   ]
 }
